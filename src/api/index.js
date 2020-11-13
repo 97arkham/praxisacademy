@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const Api = axios.create({
-    baseURL: 'http://localhost:3000'
+    baseURL: 'https://api-praxisacademy.herokuapp.com'
 })
 
 export default Api;

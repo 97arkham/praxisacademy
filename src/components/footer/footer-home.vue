@@ -5,17 +5,17 @@
       <v-row class="pt-16">
         <v-col cols="12" sm="4">
           <h3 class="mb-5">PRAXIS ACADEMY</h3>
-          <p class="font-weight-light">Tentang Kami</p>
-          <p class="font-weight-light">Bantuan</p>
-          <p class="font-weight-light">Magang</p>
-          <p class="font-weight-light">FAQ</p>
+         <a href="#"><p class="font-weight-light">Tentang Kami</p></a> 
+         <a href="#"><p class="font-weight-light">Bantuan</p></a> 
+        <a href="#"> <p class="font-weight-light">Magang</p> </a> 
+        <a href="#"> <p class="font-weight-light">FAQ</p></a>  
         </v-col>
 
         <v-col cols="12" sm="4">
           <h3 class="mb-5">PERUSAHAAN</h3>
-          <p class="font-weight-light">Pendaftaran</p>
-          <p class="font-weight-light">Pasang Iklan</p>
-          <p class="font-weight-light">Kebijakan Privasi</p>
+         <a href="#"> <p class="font-weight-light">Pendaftaran</p> </a> 
+         <a href="#"> <p class="font-weight-light">Pasang Iklan</p> </a>
+         <a href="#"> <p class="font-weight-light">Kebijakan Privasi</p> </a>
         </v-col>
 
         <v-col cols="12" sm="4">
@@ -69,3 +69,15 @@
   </v-footer>
 </template>
 
+<style scoped>
+  a{
+    text-decoration: none;
+    
+  }
+  a:hover{
+    color: lightskyblue;
+  }
+  a:link{
+    color: black;
+  }
+</style>
