@@ -12,7 +12,7 @@
       <v-row>
         <v-col cols="12" sm="6">
           <cardssss
-            src="https://www.youtube.com/embed/UiPv8GGt_Ik"
+            src="https://play.google.com/store/apps/details?id=id.salamdoc"
             class="mt-15"
             hrf="http://salamdoc.id/"
           />

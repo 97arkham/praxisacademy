@@ -26,10 +26,11 @@
               </v-list-item-content>
             </v-list-item>
           </v-list>
+          
         </v-col>
 
         <v-col cols="12" sm="5" order="first" order-sm="last">
-          <img src="@/assets/LOGOOO.png" alt="" width="90%" />
+         <a href="https://play.google.com/store/apps/details?id=id.salamdoc"><img src="@/assets/LOGOOO.png" alt="" width="90%" /></a> 
         </v-col>
       </v-row>
     </v-container>
@@ -60,7 +61,7 @@ export default {
         text: "Download Aplikasi",
         icon: "mdi-check-bold",
         para:
-          "Aplikasi yang telah dibuat dapat teman-teman lihat di github Praxis Academy.",
+          "Aplikasi yang telah dibuat dapat teman-teman lihat di github Praxis Academy dan playstore.",
       },
     ],
   }),

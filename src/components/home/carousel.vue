@@ -9,7 +9,7 @@
           md="6"
         >
           <div>
-            <div class="my-sm-16 my-10 text-h4 text-sm-h3 font-weight-medium">
+            <div class="my-sm-16 my-10 text-h4 text-sm-h4 font-weight-medium" >
               Menjadi Developer Bertalenta bersama Praxis Academy
             </div>
             <!-- <p class="mt-5 mb-15">
