@@ -432,7 +432,7 @@ export default {
         komitmen: "",
         referensi: "",
         mediaSosial: "",
-        bootCamp: "",
+        bootCamp: [ ],
         uploadedFiles: "",
       },
 
